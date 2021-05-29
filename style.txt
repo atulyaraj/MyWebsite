@@ -1,0 +1,4 @@
+<img src="Images/c++.png" class="skillimage">
+            <img src="Images/html logo.png" class="skillimage">
+            <img src="Images/css logo.png" class="skillimage">
+            <br style="margin-bottom: 0;">

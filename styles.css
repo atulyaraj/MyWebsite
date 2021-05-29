@@ -1,0 +1,245 @@
+body {
+    background-color: #c0fefc;
+    text-align: center;   
+    position: relative;
+    
+    font-family: 'Open Sans', sans-serif;
+    margin:0
+}
+/*.pro {
+    text-decoration: underline;
+}
+*/
+.topcontainer{
+    background-color: #c0fefc;
+    
+}
+.midcontainer{
+    margin-top: 50px;
+    text-align: center;
+    height: 30%;
+    width:30%;
+    position: relative;
+    left:450px;    
+}
+.topcloud {
+    position:absolute;
+    width: 200px;
+    height: 50px;
+    right:200px;
+
+}
+.mountain {
+    height:400px;
+    width: 600px;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+h1{
+    
+    font-family: 'Mate SC', serif;
+    font-size: 90px;
+    color:dimgrey;
+    text-shadow:520px black;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    position: relative;
+    top:50px
+   
+    
+}
+.bottomcloud{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    left: 200px;
+    
+    
+}
+p { 
+    color:chocolate;
+    font-size: 17px;
+    margin-bottom: 10px;
+
+    
+    
+}
+.profile{
+    width: 150px;
+    height: 150px;
+}
+hr {
+    border-style:dotted;
+    width:5%;
+    border-top-width:0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 10px;
+    margin-top: 10px;
+    color: crimson;
+}
+.bottomcontainer{
+    background-color:#77acf1 ;
+    margin-top: 100px;
+    
+}
+h2 {
+    font-family: 'Dancing Script', cursive;
+    color: dimgrey;
+    font-size: 17px;
+    margin-bottom: 10px;
+    position: relative;
+    top:40px
+}
+.bottomimages{
+
+    margin-top: 20px;
+    height: 50px;
+    width: 50px;
+    
+    margin-right: 5px;
+}
+.gitimage{
+    height:48px;
+    width:50px;
+    margin-left:5px;
+}
+.webimage{
+    height: 200px;
+    width: 200px;
+}
+.level1container{
+    margin-top: 50px;
+    position: relative;
+    top: 20px;
+    text-align: left;
+    width:40%;
+    left:100px
+    
+}
+.level2container{
+    margin-top: 50px;
+    position: relative;
+    width:40%;
+    left:600px
+
+}
+.programmingimage{
+    height: 200px;
+    width: 200px;
+}
+.Navbar{
+    
+    margin-top:0px;
+    background-color: #393e46;
+    height: 50px;
+    position: relative;
+    bottom:10px;
+    width:100%;
+}
+.nav{
+    position: relative;
+    top:20px;
+    text-align: center;
+    
+    padding-left: 2px;
+    padding-right: 2px;
+    text-decoration: none;
+    
+    margin-left: 50px;
+    color: wheat;
+    
+}
+.Heading{
+    margin: 0;
+    position: relative;
+    bottom: 120px;
+}
+.blogimage{
+    width: 150px;
+    height: 150px;
+}
+.BlogDiv2{
+    margin: 0;
+    text-align: center;
+}
+.BlogDiv3{
+    width:80%;
+    text-align: left;
+    font-size: 150%;
+    position: relative;
+    left:100px;
+}
+.blogimage2{
+    width:200px;
+    height: 200px;
+    position: relative;
+    left:200px;
+    top:50px;
+    margin-left: 50px;
+    border: solid;
+}
+.college{
+    margin:0;
+}
+.educationimages{
+    height:100px;
+    width: 100px;
+    position: relative;
+    top:20px;
+}
+.contacts{
+    margin:0px;
+    position:relative;
+
+}
+.contactimage{
+    width:70px;
+    height: 70px;
+    
+    
+}
+.contactform{
+    position: relative;
+    top:50px;
+}
+.label{
+    color:deeppink;
+    font-family: 'Fredoka One', cursive;
+}
+.box{
+    color:maroon;
+    border: solid deeppink;
+    font-family: 'Fredoka One', cursive;
+    background-color:mistyrose;
+}
+.skills{
+    position: relative;
+    left:300px;   
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 60%;
+    height: 10%;
+    
+    
+}
+
+.skillimage{
+    width: 100px;
+    height: 100px;
+    image-rendering:optimizeQuality;
+    
+}
+.tdskill{
+    margin-left: 120px;
+}
+.des{
+    display: inline;
+}
+.stars{
+    
+    width: 20px;
+    height: 20px;
+    
+}
